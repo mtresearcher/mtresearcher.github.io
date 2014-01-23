@@ -1,7 +1,7 @@
---
-layout=post
-title='Optimal Online Learning'
---
+---
+layout: post
+title: Optimal Online Learning
+---
 
 Online learning is a machine learning task where a predictor iteratively: 
   
