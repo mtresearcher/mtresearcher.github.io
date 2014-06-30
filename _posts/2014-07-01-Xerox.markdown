@@ -1,0 +1,13 @@
+---
+layout: post
+title: Building an in-domain SMT system without in-domain parallel data
+---
+We address a challenging problem frequently faced by MT service 
+providers: creating a domain-specific system based on a purely 
+source-monolingual sample of text from the domain. We solve this 
+problem by introducing methods for domain adaptation requiring 
+no in-domain parallel data. Our approach yields results comparable
+to state-of-the-art systems optimized on an in-domain parallel 
+set with a drop of as little as 0.5 BLEU points across 4 domains.
+
+You can find the paper [here](https://hlt.fbk.eu/sites/hlt.fbk.eu/files/paper.pdf)
