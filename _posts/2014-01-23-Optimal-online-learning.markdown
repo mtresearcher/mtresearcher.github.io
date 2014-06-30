@@ -4,6 +4,7 @@ title: Optimal Online Learning
 ---
 
 Online learning is a machine learning task where a predictor iteratively
+
   1. receives an input and outputs a label,  
   2. receives the correct label from a human and if the two labels do not match, it learns from the mistake.
 
